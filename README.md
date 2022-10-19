@@ -19,4 +19,4 @@ Person Attributes
 
 - Create an API to create person including data validation (Email, First Name, Last Name, Age).
 - Create an API to get person by Id. Please use the @PathVariable annotation.
-- Create an API to get all person. Then, please use lambda expression to filter person whose age is over
+- Create an API to get all person. Then, please use lambda expression to filter person whose age is over 35.
