@@ -28,7 +28,7 @@ public class Person {
 
 
     @Length(min = 3, message = "First Name must be 3 or more than 3 Characters")
-    @Length(max = 20, message = "First Name must be less than 50 Characters")
+    @Length(max = 20, message = "First Name must be less than 20 Characters")
     @NotNull
     @Column(name = "first_name")
     private String firstName;
