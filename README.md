@@ -11,7 +11,7 @@ Person Attributes
 
 |Name       | Type                 |Mandatory Constraints          |
 |-----------|----------------------| :---------------:            |
-|Id         | Long                 |Primary key, auto increasement|
+|Id         | Long                 |Primary key, auto increment   |
 |Email      | Varchar (50)         | Yes Unique                   |
 |First Name | Varchar (20)         | Yes                          |
 |Last Name  | Varchar (50)         | No                           |
